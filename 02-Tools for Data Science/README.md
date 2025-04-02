@@ -16,7 +16,7 @@ This course introduces the common programming languages used by data scientists 
 * [Using Markdown in Jupyter Notebooks]()
 * [Working with Files in Jupyter Notebooks]()
 
-## PDF File Reading Materials
+## Reading Materials
 * Open source tool board
 * Additional Sources of Datasets
 * Getting started with the Model Asset eXchange and the Data Asset Exchange
