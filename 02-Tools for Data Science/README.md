@@ -12,9 +12,9 @@ This course introduces the common programming languages used by data scientists 
 - Week 7: IBM Watson Studio (Optional)
 
 ## Assignments in this Course
-* [Getting Started with Jupyter Notebooks]()
-* [Using Markdown in Jupyter Notebooks]()
-* [Working with Files in Jupyter Notebooks]()
+* Getting Started with Jupyter Notebooks
+* Using Markdown in Jupyter Notebooks
+* Working with Files in Jupyter Notebooks
 
 ## Reading Materials
 * Open source tool board
