@@ -1,9 +1,6 @@
 ![image](https://github.com/IneshV/IBM_Data_Science_Certificate/blob/main/323441136-7829af65-85b7-4f6a-8460-8e6d3c45a238.png)<br>
 # About 
-The [IBM Data Science Professional Certification](https://www.coursera.org/professional-certificates/ibm-data-science) consists of 12 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. Completion of the program awards professional with an employer-recognized certificate from IBM.<br>
-# Summary of This Repository
-This repository contains select course content, relevant notes, bits of code, final projects, quiz grades, and proof of certification for each course.<br><br>
-**Additional Info:** *Please scroll down to view the employer-recognized Data Science Professional Certificate from IBM and verification link.*<br>
+The [IBM Data Science Professional Certification](https://www.coursera.org/professional-certificates/ibm-data-science) consists of 12 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. Completion of the program awards professionals with an employer-recognized certificate from IBM.Verification can be found [here](https://www.coursera.org/account/accomplishments/professional-cert/certificate/MFYBKIMV6G2O)<br>
 # Completed Courses and Certificates
 - **Course 1:** [What is Data Science?](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/01.%20What%20is%20Data%20Science%3F)
 - **Course 2:** [Tools for Data Science](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate/tree/main/02.%20Tools%20for%20Data%20Science)
@@ -108,13 +105,14 @@ This repository contains select course content, relevant notes, bits of code, fi
 The following skills are developed in this professional certificate program:
 - Import and clean data sets
 - Analyze and visualize data
-- Build macine learning models and pipelines
+- Build machine learning models and pipelines
 - Develop knowledge of industry tools, languages, and libraries:
   - Methodology
   - RStudio
   - SQL
   - Data Mining
   - Jupyter Notebooks
+  
 ### Tools for Data Science<br>
 The following tools were used to complete this certification:
 - Python
