@@ -118,8 +118,7 @@ The following tools were used to complete this certification:
 - Python
 - Jupyter Notebook
 - GitHub
-- IBM Watson Studio
-- IBM Cloud Pak<br>
+
 ### Python Libraries for Data Science<br>
 The following Python libraries were used throughout the certification:
 - Pandas
