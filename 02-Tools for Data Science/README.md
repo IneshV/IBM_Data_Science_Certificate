@@ -17,21 +17,21 @@ This course introduces the common programming languages used by data scientists 
 * [Working with Files in Jupyter Notebooks]()
 
 ## PDF File Reading Materials
-* [Open source tool board]
-* [Additional Sources of Datasets]
-* [Getting started with the Model Asset eXchange and the Data Asset Exchange]
-* [Download & Install Anaconda]
-* [Jupyter Notebooks on the Internet]
-* [Download & Install R and RStudio]
-* [R Basics with RStudio]
-* [Getting started with RStudio and Installing packages]
-* [Creating Data Visualizations using ggplot]
-* [Plotting with RStudio]
-* [Getting Started with GitHub]
-* [Getting Started with Branches using Git Commands]
-* [Branching and Merging (Web UI)]
-* [**Tools for data Science Glossary**]
-* [Creating a Watson Studio Project with Jupyter Notebooks]
+* Open source tool board
+* Additional Sources of Datasets
+* Getting started with the Model Asset eXchange and the Data Asset Exchange
+* Download & Install Anaconda
+* Jupyter Notebooks on the Internet
+* Download & Install R and RStudio
+* R Basics with RStudio
+* Getting started with RStudio and Installing packages
+* Creating Data Visualizations using ggplot
+* Plotting with RStudio
+* Getting Started with GitHub
+* Getting Started with Branches using Git Commands
+* Branching and Merging (Web UI)
+* Tools for data Science Glossary
+* Creating a Watson Studio Project with Jupyter Notebooks
 
 
 ## Final Assignment
