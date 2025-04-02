@@ -7,7 +7,7 @@ You will then dive into classification techniques using different classification
 With all the many concepts you will learn, a big emphasis will be placed on hands-on learning. You will work with Python libraries like SciPy and scikit-learn and apply your knowledge through labs. In the final project you will demonstrate your skills by building, evaluating and comparing several Machine Learning models using different algorithms.<br><br>
 By the end of this course, you will have job-ready skills to add to your resume and a certificate in machine learning to prove your competency.
 
-## Syllabus for Course 9
+## Syllabus 
 - Week 1: [Introduction to Machine Learning]()
 - Week 2: [Regression]()
 - Week 3: [Classification]()
